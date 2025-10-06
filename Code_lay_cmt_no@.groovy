@@ -41,7 +41,7 @@ const main = async () => {
                 if (data.includes(commentId)) continue;
                 const full_name = spanElementFullname.textContent
                 const comment = otherElement?.textContent.trim() || ""
-                // ❌ Bỏ qua comment chỉ tag tên
+                //  Bỏ qua comment chỉ tag tên
                 const onlyTag = otherElement 
                     && otherElement.children.length > 0 
                     && [...otherElement.children].every(child => child.tagName === "A")
@@ -57,3 +57,4 @@ const main = async () => {
     }
 }
 main()
+
