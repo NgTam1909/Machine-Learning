@@ -12,6 +12,9 @@ if "sentiment" not in df.columns or "comment_cleaned" not in df.columns:
 # Lấy danh sách nhãn duy nhất và thêm lựa chọn "Tất cả"
 labels = ["Tất cả"] + sorted(df['sentiment'].dropna().unique().tolist())
 
+# Cập nhật số lượng comment
+count_label.config(text=f"Số lượng comment: {len(filtered_comments)}")
+
 # Hàm cập nhật danh sách comment theo nhãn
 def update_comments(*args):
     selected_label = label_var.get()
@@ -50,6 +53,10 @@ label_dropdown = ttk.Combobox(frame, textvariable=label_var, values=labels, stat
 label_dropdown.pack(side=tk.LEFT, padx=10)
 label_dropdown.bind("<<ComboboxSelected>>", update_comments)
 
+# Label hiển thị số lượng comment
+count_label = tk.Label(root, text="Số lượng comment: 0", font=("Arial", 12), fg="blue")
+count_label.pack(pady=5)
+
 # Frame chứa Text + Scrollbar
 text_frame = tk.Frame(root)
 text_frame.pack(padx=20, pady=10, fill=tk.BOTH, expand=True)
@@ -67,3 +74,4 @@ update_comments()
 # Disable edit textbox
 text_box.config(state=tk.DISABLED)
 root.mainloop()
+
