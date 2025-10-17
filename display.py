@@ -12,9 +12,6 @@ if "sentiment" not in df.columns or "comment_cleaned" not in df.columns:
 # Lấy danh sách nhãn duy nhất và thêm lựa chọn "Tất cả"
 labels = ["Tất cả"] + sorted(df['sentiment'].dropna().unique().tolist())
 
-# Cập nhật số lượng comment
-count_label.config(text=f"Số lượng comment: {len(filtered_comments)}")
-
 # Hàm cập nhật danh sách comment theo nhãn
 def update_comments(*args):
     selected_label = label_var.get()
@@ -22,6 +19,9 @@ def update_comments(*args):
         filtered_comments = df['comment_cleaned']
     else:
         filtered_comments = df[df['sentiment'] == selected_label]['comment_cleaned']
+
+    # Cập nhật số lượng comment
+    count_label.config(text=f"Số lượng comment: {len(filtered_comments)}")
     
     text_box.config(state=tk.NORMAL)
     text_box.delete(1.0, tk.END)
@@ -74,4 +74,5 @@ update_comments()
 # Disable edit textbox
 text_box.config(state=tk.DISABLED)
 root.mainloop()
+
 
