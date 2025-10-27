@@ -31,7 +31,7 @@ def update_comments(*args):
         for i, c in enumerate(filtered_comments, start=1):
             text_box.insert(tk.END, f"{i}. {c}\n\n")  # thêm số thứ tự
     text_box.config(state=tk.DISABLED)
-
+#---GIAO DIỆN----
 # Tạo cửa sổ chính
 root = tk.Tk()
 root.title("Danh sách comment theo nhãn")
@@ -74,5 +74,6 @@ update_comments()
 # Disable edit textbox
 text_box.config(state=tk.DISABLED)
 root.mainloop()
+
 
 
