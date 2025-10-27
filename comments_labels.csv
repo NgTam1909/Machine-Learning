@@ -1,9 +1,9 @@
-﻿full_name,comment,comment_cleaned,sentiment
+cựcfull_name,comment,comment_cleaned,sentiment
 Lan Bui,Có ai biết nhà trọ nào rẻ gần trường kh ib mình với,có ai biết nhà trọ nào rẻ gần trường không ib mình với,Trung lập
 Trần Thảo,Em k đăng kí học trường này vậy giờ em đăng kí được k ạ ,em không đăng kí học trường này vậy giờ em đăng kí được không ạ,Tiêu cực
 Nguyễn Thị Hiền.,Chử Lương Thưởng em có giấy báo này chưa?,chử lương thưởng em có giấy báo này chưa,Trung lập
 Chu Nhung,Danh sách này là bao trùm hết cả những bn để trường mk ở nv 2 trở lên ak,danh sách này là bao trùm hết cả những bạn để trường mình ở nguyện vọng 2 trở lên ak,Trung lập
-"Thân Thị Hoài Thương,""Ngô Minh Hiếu tìm tên cho t,chả thấy đâu hicccc"",""ngô minh hiếu tìm tên cho tôi,chả thấy đâu hicc"",Tiêu cực"
+Thân Thị Hoài Thương,"Ngô Minh Hiếu tìm tên cho t,chả thấy đâu hicccc","ngô minh_hiếu tìm tên cho tôi chả thấy đâu hicc",Tiêu cực
 VY Lực,Năm nay mình thi THPT dc 20 điểm tô hợp 3 môn mình tính năm sau Sẽ học trường này,năm nay mình thi trung học phổ thông được 20 điểm tô hợp 3 môn mình tính năm sau sẽ học trường này,Tích cực
 Nguyễn Trường Sơn,Trường còn nhận xét qua hb không ạ ?,trường còn nhận xét qua học bạ không ạ,Trung lập
 Nguyễn Liễu,Những ng xét học bạ là k có trong danh sách này phải k ạ,những người xét học bạ là không có trong danh sách này phải không ạ,Trung lập
@@ -42,7 +42,7 @@ Nguyễn Tiến Đạt,chúc mừng tất cả các bạn tân sinh viên nhé ,
 Đỗ Duy Thành,5 người trúng chương trình liên kết quốc tế ,5 người trúng chương trình liên kết quốc tế,Trung lập
 Vang Vũ,có ai bên CNTT không nhờ,có ai bên công nghệ thông tin không nhờ,Trung lập
 Txos Vaj, Xem mấy bạn điểm cao thấy toàn gái là nhiều...,xem mấy bạn điểm cao thấy toàn gái là nhiều..,Tiêu cực
-"Ngô Văn Cường,""Kó pạn lào Tự Động Hóa 0 z bạn, hay mooix 2 đứa mình nhĩ Nguyễn Văn Thái"",""kó pạn lào tự động hóa 0 vậy bạn, hay mooix 2 đứa mình nhĩ nguyễn văn thái"",Trung lập"
+Ngô Văn Cường,"Kó pạn lào Tự Động Hóa 0 z bạn, hay mooix 2 đứa mình nhĩ Nguyễn Văn Thái","kó pạn lào tự động hóa 0 vậy bạn, hay mooix 2 đứa mình nhĩ nguyễn văn thái",Trung lập
 Đỗ Xuân Trường,Chào các b cùng ngành cntn,chào các bạn cùng ngành cntn,Trung lập
 Hằng Phạm,Em muốn đăng kí xét tuyển thì làm như nào ạ,em muốn đăng kí xét tuyển thì làm như nào ạ,Trung lập
 Đặng Văn Thoại,B nào tự động hoá k,bạn nào tự động hoá không,Trung lập
@@ -198,7 +198,7 @@ Thành Đạt,Lam Anh đón anh,lam anh đón anh,Tích cực
 Đào Duy Tùng,Kiếp nạn đường tăng,kiếp nạn đường tăng,Tiêu cực
 Nhat Anh Pham,T Ngân VũDiệu Linh sao k có tên t nhỉ :)),tôi ngân vũdiệu linh sao không có tên tôi nhỉ,Tiêu cực
 Hoàng Thị Thanh Mai,Nguyêt Hằng giỏi,nguyêt hằng giỏi,Tích cực
-"Nguyễn Đức Anh,""Sơn TháiNguyễn Minh AnhThắng ĐặngLê Toàn ae đỗ hết chưa, bh đi học qua gọi nhé"",""sơn tháinguyễn minh anhthắng đặnglê toàn anh em đỗ hết chưa, bao giờ đi học qua gọi nhé"",Tích cực"
+Nguyễn Đức Anh,"Sơn TháiNguyễn Minh AnhThắng ĐặngLê Toàn ae đỗ hết chưa, bh đi học qua gọi nhé","sơn tháinguyễn minh anhthắng đặnglê toàn anh em đỗ hết chưa, bao giờ đi học qua gọi nhé",Tích cực
 Trần Thành,ko thấy tên đâu luôn,không thấy tên đâu luôn,Tiêu cực
 Hoàng Đức Duy,Có ai tự động hoá không ạ,có ai tự động hoá không ạ,Trung lập
 Hải Trần,Đông này chắc lấy chỗ đâu mà học chứ,đông này chắc lấy chỗ đâu mà học chứ,Tiêu cực
@@ -209,7 +209,7 @@ Nguyễn T. Ngọc Dung,Tr Ngọc Linh  check chưa,trường ngọc linh check 
 Hà Đ. Tuyênn,Nguyễn V. Tú cơ điện tử à,nguyễn vậy. tú cơ điện tử à,Trung lập
 Dương Tuấn Hưng,Chào nhé,chào nhé,Trung lập
 Nông Thu Huyền,Thơm phức,thơm phức,Tích cực
-"Nguyễn Thu Hồng,""Ngô Thị Ngọc Ánh không thấy bạn t trong ngành của m nữa roiiii, câu chuyện được gặp bạn thân khó roiii"",""ngô thị ngọc ánh không thấy bạn tôi trong ngành của mày nữa roii, câu chuyện được gặp bạn thân khó roii"",Tiêu cực"
+Nguyễn Thu Hồng,"Ngô Thị Ngọc Ánh không thấy bạn t trong ngành của m nữa roiiii, câu chuyện được gặp bạn thân khó roiii","ngô thị ngọc ánh không thấy bạn tôi trong ngành của mày nữa roii, câu chuyện được gặp bạn thân khó roii",Tiêu cực
 Dương Bích Thảo,Ok luôn,ok luôn,Tích cực
 Ph Thanh Thùy,chỉ tiêu của trg mình là bn v ạ,chỉ tiêu của trường mình là bạn vậy ạ,Trung lập
 Hoàng Thị Thu Hà,Đặng Thùy Dung tìm tên c đi,đặng thùy dung tìm tên chị đi,Trung lập
@@ -221,7 +221,7 @@ Hoàng Thị Thu Hà,Phạm Thế Kiên b có đỗ Đh ko ?,phạm thế kiên 
 Le Duc Anh,Thanh Hiền ở đây,thanh hiền ở đây,Trung lập
 Nguyễn Thị Vân Khánh,Nhung Hồng thấy tên chưa,nhung hồng thấy tên chưa,Tiêu cực
 Trần Nga,Trần Nhật Vũ  có nè sài tạm đi,trần nhật vũ có nè sài tạm đi,Trung lập
-"Thiều Minh Vương,""Vch 24₫ trượt ngành 16,5₫ :))"",""vch 24 trượt ngành 16,5"",Tiêu cực"
+Thiều Minh Vương,"Vch 24₫ trượt ngành 16,5₫ :))","vch 24 trượt ngành 16,5",Tiêu cực
 Quangg Tùngg,Anh em Thiết kế đồ hoạ đâu nhỉ:V,anh em thiết kế đồ hoạ đâu nhỉ vậy,Trung lập
 Duong Ngo Hung ☻,Dương Ngô Quang sao chưa có tên em,dương ngô quang sao chưa có tên em,Tiêu cực
 Nguyễn Đức Chung,Có ai cntt ko -)),có ai công nghệ thông tin không,Trung lập
@@ -232,7 +232,7 @@ Hà Hoàng Chính,Có mình,có mình,Trung lập
 Trần Đức Hà,có ai nhận đc giấy báo chx ,có ai nhận được giấy báo chưa,Trung lập
 Quynh Ca,Điện tử truyền thông tìm các b cùng ngành,điện tử truyền thông tìm các bạn cùng ngành,Trung lập
 Nguyễn Thùy Linh,Chào nhé,chào nhé,Trung lập
-"Naobaymuoi Kg Thidoiten,""Chúc mừng các bạn 2k5 nhé .Các bạn sẽ rất vui khi được học một ngôi trường siêu siêu đẳng cấp, giáo viên chuyên môn cao, bạn bè hoà đồng vui vẻ, trang thiết bị hiện đại , khuân viên rộng rãi, thoáng mát  . Con cảm ơn nhà nước, cảm ơn Bác Hồ Chí Minh, con cảm ơn Bố, Mẹ đã . Cảm ơn Thầy Hiệu Trưởng, cảm ơn Cô Giáo bộ môn, cảm ơn Bác tỉ phú Phạm Nhật Vượng, cảm ơn Thằng bạn thân Xin cảm ơn mọi người đã cho mình được học tại ngôi trường này. Ôi cảm giác đó vẫn còn y nguyên như lúc mới đỗ Đại Học .Còn bây giờ kiếm tiền học lại thôi . Cảm ơn  "",""chúc mừng các bạn 2k5 nhé .các bạn sẽ rất vui khi được học một ngôi trường siêu siêu đẳng cấp, giáo viên chuyên môn cao, bạn bè hoà đồng vui vẻ, trang thiết bị hiện đại , khuân viên rộng rãi, thoáng mát . con cảm ơn nhà nước, cảm ơn bác hồ chí minh, con cảm ơn bố, mẹ đã . cảm ơn thầy hiệu trưởng, cảm ơn cô giáo bộ môn, cảm ơn bác tỉ phú phạm nhật vượng, cảm ơn thằng bạn thân xin cảm ơn mọi người đã cho mình được học tại ngôi trường này. ôi cảm giác đó vẫn còn y nguyên như lúc mới đỗ đại học .còn bây giờ kiếm tiền học lại thôi . cảm ơn"",Tích cực"
+Naobaymuoi Kg Thidoiten,"Chúc mừng các bạn 2k5 nhé .Các bạn sẽ rất vui khi được học một ngôi trường siêu siêu đẳng cấp, giáo viên chuyên môn cao, bạn bè hoà đồng vui vẻ, trang thiết bị hiện đại , khuân viên rộng rãi, thoáng mát  . Con cảm ơn nhà nước, cảm ơn Bác Hồ Chí Minh, con cảm ơn Bố, Mẹ đã . Cảm ơn Thầy Hiệu Trưởng, cảm ơn Cô Giáo bộ môn, cảm ơn Bác tỉ phú Phạm Nhật Vượng, cảm ơn Thằng bạn thân Xin cảm ơn mọi người đã cho mình được học tại ngôi trường này. Ôi cảm giác đó vẫn còn y nguyên như lúc mới đỗ Đại Học .Còn bây giờ kiếm tiền học lại thôi . Cảm ơn  ","chúc mừng các bạn 2k5 nhé .các bạn sẽ rất vui khi được học một ngôi trường siêu siêu đẳng cấp, giáo viên chuyên môn cao, bạn bè hoà đồng vui vẻ, trang thiết bị hiện đại , khuân viên rộng rãi, thoáng mát . con cảm ơn nhà nước, cảm ơn bác hồ chí minh, con cảm ơn bố, mẹ đã . cảm ơn thầy hiệu trưởng, cảm ơn cô giáo bộ môn, cảm ơn bác tỉ phú phạm nhật vượng, cảm ơn thằng bạn thân xin cảm ơn mọi người đã cho mình được học tại ngôi trường này. ôi cảm giác đó vẫn còn y nguyên như lúc mới đỗ đại học .còn bây giờ kiếm tiền học lại thôi . cảm ơn",Tích cực
 Hoàng An,uầy,uầy,Trung lập
 Nguyễn.T. Lan Anh,Kiều Trang ác luôn,kiều trang ác luôn,Tiêu cực
 Bông Nguyễn,không thấy tên đâu ,không thấy tên đâu,Tiêu cực
@@ -252,7 +252,7 @@ Tuyết Minh Anh,Dương Thị Bích Liên toàn ngành công nghệ thông tin 
 Vũ Tiến Đạt,Tìm người anh em học ttdpt =)),tìm người anh em học ttdpt,Trung lập
 Đình Linh,Loan Anh sao ko có e,loan anh sao không có em,Tiêu cực
 Triệu Ngocc Anh,Cứ lo là kog đỗ cơ ,cứ lo là kog đỗ cơ,Tiêu cực
-"Vũ Minh Ngọc,""VŨ CHÍ THANH đây hở, không thấy tên m nhỉ"",""vũ chí thanh đây hở, không thấy tên mày nhỉ"",Tiêu cực"
+Vũ Minh Ngọc,"VŨ CHÍ THANH đây hở, không thấy tên m nhỉ","vũ chí thanh đây hở, không thấy tên mày nhỉ",Tiêu cực
 Huy Hoang,Minh Tam bên này này,minh tam bên này này,Trung lập
 Tiến,Vũ Việt Hưng thu xếp đi bạn,vũ việt hưng thu xếp đi bạn,Trung lập
 Lê An,Team KTPM đâu =)),team kỹ thuật phần mềm đâu,Trung lập
@@ -285,12 +285,12 @@ Hoàng Ngọc Linh,đỗ mà,đỗ mà,Tích cực
 Đặng Hoàng Bình,Mình đỗ rồi vui quá ạ ,mình đỗ rồi vui quá ạ,Tích cực
 Trần Thanh Phươngg,Khánh Ninh e thừa điểm r đi học thuii:),khánh ninh em thừa điểm rồi đi học thuii,Tích cực
 Nguyễn Thị Trang,Nguyễn Thị Yến vác balo và đi,nguyễn thị yến vác balo và đi,Trung lập
-"Hoàng Thị Thu Thuỷ,""đỗ r, dư sức"",""đỗ rồi, dư sức"",Tích cực"
+Hoàng Thị Thu Thuỷ,"đỗ r, dư sức","đỗ rồi, dư sức",Tích cực
 Nguyễn Ngọc Hằngg,Ngo Thi Tu Quyen tìm tên m đi m,ngo thi tu quyen tìm tên mày đi mày,Tiêu cực
 Dao Hieu,có danh sách người trúng tuyển ch mn,có danh sách người trúng tuyển chưa mọi người,Trung lập
 Đinh Thị Ngọc Nhi,Minh Tô check điểm,minh tô check điểm,Trung lập
 Phạm Nam,Quốc Việt sợ chưa,quốc việt sợ chưa,Tiêu cực
-"Hoàng An,""yeah , thế là tôi đã trở thành sinh viên của ictu rồi "",""yeah , thế là tôi đã trở thành sinh viên của ictu rồi"",Tích cực"
+Hoàng An,"yeah , thế là tôi đã trở thành sinh viên của ictu rồi ","yeah , thế là tôi đã trở thành sinh viên của ictu rồi",Tích cực
 Nguyễn Thị Mai,Đào Ngọc Ánh tên là gì nhỉ,đào ngọc ánh tên là gì nhỉ,Trung lập
 Khanh Dat,Thu HienTr NhungThanh Huyền các bà có đỗ k,thu hientr nhungthanh huyền các bà có đỗ không,Trung lập
 Trần Hoa,mình đỗ r nè Ánhh Ánhh,mình đỗ rồi nè ánhh ánhh,Tích cực
@@ -301,7 +301,7 @@ Quyền Quyền,Ê thừa 6đ thì như nào ạ :((,ê thừa 6đ thì như nà
 Bắc Nguyễnn,Đ Đ T đáy xh:)),đ đ tôi đáy xã hội,Trung lập
 Hoàng Phương,Trông diểm thấp vcl,trông diểm thấp vcl,Tiêu cực
 Vân,Nong Ngoc Hung ý là không nghĩ nó … luôn á,nong ngoc hung ý là không nghĩ nó luôn á,Tiêu cực
-"Trần Duy Phúc,""Thiếu mỗi nửa điểm là thành tân sinh viên rồi, trường lấy 22 còn mình thi được 11"",""thiếu mỗi nửa điểm là thành tân sinh viên rồi, trường lấy 22 còn mình thi được 11"",Tiêu cực"
+Trần Duy Phúc,"Thiếu mỗi nửa điểm là thành tân sinh viên rồi, trường lấy 22 còn mình thi được 11","thiếu mỗi nửa điểm là thành tân sinh viên rồi, trường lấy 22 còn mình thi được 11",Tiêu cực
 Ngô Đức Tuyên,Giờ mà đỗ rồi nhưg chuyển ngành đc ko nhỉ ,giờ mà đỗ rồi nhưg chuyển ngành được không nhỉ,Trung lập
 Tra My,Nhã Hoàng không ấy thì khỏi đi đấu cho đi học được không?,nhã hoàng không ấy thì khỏi đi đấu cho đi học được không,Tiêu cực
 Trương Thị Liên,Đi thoii,đi thoii,Trung lập
@@ -357,8 +357,8 @@ Hoàng Sơn,Minh Thư check check,minh thư check check,Trung lập
 Nguyễn Văn Tuấn,Kỹ thuật phần mềm chào ae :)),kỹ thuật phần mềm chào anh em,Tích cực
 Thảo Hoàng,chào mừng các em đến với chương trình CLC các em có cần gì hỏi thì ib cho anh hoặc anh Nguyễn Vũ Hải nha,chào mừng các em đến với chương trình chất lượng cao các em có cần gì hỏi thì ib cho anh hoặc anh nguyễn vũ hải nha,Tích cực
 Hoàng T. Long,Cho mình hỏi có ai chưa ngyeu không ạ =))) Duc Anh,cho mình hỏi có ai chưa người yêu không ạ duc anh,Trung lập
-"Vang Vũ,""Thiên Thiên Lê Thanh Huyền Hoàng Huy  trượt mấy gòyy, k thấy tên"",""thiên thiên lê thanh huyền hoàng huy trượt mấy gòyy, không thấy tên"",,,Tiêu cực"
-"Nguyễn Đức Mạnh,""Ai có nhóm cntt clc không ạ, cho mình vào với"",""ai có nhóm công nghệ thông tin chất lượng cao không ạ, cho mình vào với"",,,Tiêu cực"
+Vang Vũ,"Thiên Thiên Lê Thanh Huyền Hoàng Huy  trượt mấy gòyy, k thấy tên","thiên thiên lê thanh huyền hoàng huy trượt mấy gòyy, không thấy tên",Tiêu cực
+Nguyễn Đức Mạnh,"Ai có nhóm cntt clc không ạ, cho mình vào với","ai có nhóm công nghệ thông tin chất lượng cao không ạ, cho mình vào với",Tiêu cực
 Nguyễn Vũ Hạ Trang,Mạnh Hùng em vào page tham khảo nè.,mạnh hùng em vào page tham khảo nè.,Trung lập
 Nguyễn Minh Nguyệt,T. Mạnh chúc mừng ezai vào lm thủ khoa nhé,tôi. mạnh chúc mừng ezai vào lm thủ khoa nhé,Tích cực
 Dương Thành Tôn,Thanh Trương Phương Nga chúc mừng hai em ,thanh trương phương nga chúc mừng hai em,Tích cực
@@ -384,7 +384,7 @@ Mỗ Hiển,Nông Mạnh Tiến  non trẻ =)),nông mạnh tiến non trẻ,Tru
 Thiên Lý,Duong Leanh cao thé ,duong leanh cao thé,Trung lập
 Trần Ngọc Anh,em k20 cần một chị dạy kèm tiếng Anh để vào Đhoc ạ,em k20 cần một chị dạy kèm tiếng anh để vào đại học ạ,Trung lập
 Từ Thu Hường,Trần Minh Hiếu ở trọ đi thì đ phải rửa bát =)),trần minh hiếu ở trọ đi thì đ phải rửa bát,Tiêu cực
-"Thành Đinh,""nếu không sai thứ tự nv thì em đã là sinh viên trường rùi ,huhu"",""nếu không sai thứ tự nguyện vọng thì em đã là sinh viên trường rồi ,huhu"",Tiêu cực"
+Thành Đinh,"nếu không sai thứ tự nv thì em đã là sinh viên trường rùi ,huhu","nếu không sai thứ tự nguyện vọng thì em đã là sinh viên trường rồi ,huhu",Tiêu cực
 Lượng,Bích Diễm trượt rồi,bích diễm trượt rồi,Tiêu cực
 Le Hong,Duuy Too thiết kế đồ hoạ kìa,duuy too thiết kế đồ hoạ kìa,Tích cực
 Phan Luân,Trường mình có gr gì cho sinh viên kh ạ cho mình tham gia với ,trường mình có gr gì cho sinh viên không ạ cho mình tham gia với,Trung lập
@@ -408,7 +408,7 @@ Văn Việt,có ai có nhóm cntt không ạ ,có ai có nhóm công nghệ thô
 Nha Nha,Cho mk hỏi là thời gian nhập hk của trg là đến bh ạ,cho mình hỏi là thời gian nhập hk của trường là đến bao giờ ạ,Trung lập
 L Quý Khách,Hà Nh  hehe,hà nh hehe,Tích cực
 Đỗ Chi,Xuân Kiên e ơi,xuân kiên em ơi,Tích cực
-"Thành Nam,""Đức Hiệp ái chà, sắp được học chung trường r"",""đức hiệp ái chà, sắp được học chung trường rồi"",,,Tiêu cực"
+Thành Nam,"Đức Hiệp ái chà, sắp được học chung trường r","đức hiệp ái chà, sắp được học chung trường rồi",Tiêu cực
 Tran Nam Son,Ủa đủ điểm đỗ mà không có tên là sao vậy ạ ? ,ủa đủ điểm đỗ mà không có tên là sao vậy ạ,Tiêu cực
 Nông Văn Đô,Tải classroom và làm quen dần với Meet thôi =))),tải classroom và làm quen dần với meet thôi,Tích cực
 Thuong Ly,Đỗ r nhưng mình đang học dở Tiếng Trung K biết có nên nhập học không nữa,đỗ rồi nhưng mình đang học dở tiếng trung không biết có nên nhập học không nữa,Tiêu cực
@@ -431,7 +431,7 @@ Adam Quốc,Xin chúc mừng k20 ,xin chúc mừng k20,Tích cực
 Trúc Ngô,Bao h có giấy trúng tuyển z ạ,bao giờ có giấy trúng tuyển vậy ạ,Trung lập
 Nguyễn Duy Anh,Nguyễn Đức Annh anh ơi có tên rồi này kakaa,nguyễn đức annh anh ơi có tên rồi này kakaa,Tích cực
 Nguyễn Thùy Linh,Đăng kí ngay và luôn,đăng kí ngay và luôn,Trung lập
-"Nguyễn Thu Uyênn,""Ui em đỗ rồi ad ạ , hóng trường mình ghê "",""ui em đỗ rồi admin ạ , hóng trường mình ghê"",,,Trung lập"
+Nguyễn Thu Uyênn,"Ui em đỗ rồi ad ạ , hóng trường mình ghê ","ui em đỗ rồi admin ạ , hóng trường mình ghê",Trung lập
 Nguyễn Minh Bình,Zêê đỗ rùi!! Hope cánh cửa ĐH sẽ thật tuyệt zời vs e ,zêê đỗ rồi hope cánh cửa đại học sẽ thật tuyệt zời với em,Tích cực
 Nguyễn Ngọc Quý,Đậu r,đậu rồi,Tích cực
 Sơn Văn Hoàng,Chung Boss Người Vô Hình các phen đã đỗ chưa,chung boss người vô hình các phen đã đỗ chưa,Trung lập
@@ -466,8 +466,8 @@ Mai Anh,Nguyen Quoc Viet Dương Hải Yến chúc mừng a cj nha,nguyen quoc v
 Trung Anh,Nguyễn Thuận đỗ r b ơi :))),nguyễn thuận đỗ rồi bạn ơi,Tích cực
 Trịnh Hiếu,Đã đỗ ạ ,đã đỗ ạ,Tích cực
 Nguyễn Linh Anh,Phùng Thị Nga trg m có Truyền thông đa phương tiện này,phùng thị nga trường mày có truyền thông đa phương tiện này,Trung lập
-"Hường Vũ,""Chúc  các  em luôn mạnh khỏe  học  tập  tốt  ,thành  công  trên  con  đường  đã  chọn"",""chúc các em luôn mạnh khỏe học tập tốt ,thành công trên con đường đã chọn"",,,Trung lập"
-"Phượng Nguyễn,""Chúc các con luôn luôn mạnh khỏe học tập tốt, thành công trên con đường mình đã chọn "",""chúc các con luôn luôn mạnh khỏe học tập tốt, thành công trên con đường mình đã chọn"",,,Trung lập"
+Hường Vũ,"Chúc  các  em luôn mạnh khỏe  học  tập  tốt  ,thành  công  trên  con  đường  đã  chọn","chúc các em luôn mạnh khỏe học tập tốt ,thành công trên con đường đã chọn",Trung lập
+Phượng Nguyễn,"Chúc các con luôn luôn mạnh khỏe học tập tốt, thành công trên con đường mình đã chọn ","chúc các con luôn luôn mạnh khỏe học tập tốt, thành công trên con đường mình đã chọn",Trung lập
 Vũ Duy,Tình nguyện viên toàn trai đẹp,tình nguyện viên toàn trai đẹp,Tích cực
 Cao Xuân Sang,ko thấy bạn Long Hùng Dragòn đâu,không thấy bạn long hùng dragòn đâu,Tiêu cực
 Vu Thi Van Anh,Lê Thị Minh Huệ ok tất cả là của mình,lê thị minh huệ ok tất cả là của mình,Tích cực
@@ -512,14 +512,14 @@ Triệu Tuyết Nhung,Vu Thao Yen đi k e,vu thao yen đi không em,Trung lập
 Ăng Thư,Dieu Huong hú hú,dieu huong hú hú,Tích cực
 Dieu Phuong,Quang Minh khu vườn tình yêu kìa,quang minh khu vườn tình yêu kìa,Trung lập
 Ming Phương,Yey,yey,Tích cực
-"Đoàn HoàngAnh,""em gái nào chưa trọ về ở với anh , ăn rồi với đóng giày cho a là dc"",""em gái nào chưa trọ về ở với anh , ăn rồi với đóng giày cho anh là được"",,,Tiêu cực"
+Đoàn HoàngAnh,"em gái nào chưa trọ về ở với anh , ăn rồi với đóng giày cho a là dc","em gái nào chưa trọ về ở với anh , ăn rồi với đóng giày cho anh là được",Tiêu cực
 NhungSou, em nhường mà các bạn ko ở ,em nhường mà các bạn không ở,Tiêu cực
 Quàng Văn Công,Sao chúng ta ko ở cùng nhau nhỉ:)),sao chúng ta không ở cùng nhau nhỉ,Tích cực
-"Nguyễn Công Tuấn Anh,""Em tưởng phải nói , nếu em k chê thì vào ở cùng anh , học anh dạy, việc nhà anh lo,chỉ cần là em là đc"",""em tưởng phải nói , nếu em không chê thì vào ở cùng anh , học anh dạy, việc nhà anh lo,chỉ cần là em là được"",,,Tiêu cực"
-"Nguyễn Thị Tâm,""Nhường luôn lại bảo dại, phải bảo thôi cho a ở nhờ đến khi a kiếm được trọ khác a nhường cho v ms nên đc. Chứ theo ad là đứt luôn chứ ở đó mà nên "",""nhường luôn lại bảo dại, phải bảo thôi cho anh ở nhờ đến khi anh kiếm được trọ khác anh nhường cho vậy ms nên được. chứ theo admin là đứt luôn chứ ở đó mà nên"",,,Tiêu cực"
+Nguyễn Công Tuấn Anh,"Em tưởng phải nói , nếu em k chê thì vào ở cùng anh , học anh dạy, việc nhà anh lo,chỉ cần là em là đc","em tưởng phải nói , nếu em không chê thì vào ở cùng anh , học anh dạy, việc nhà anh lo,chỉ cần là em là được",Tiêu cực
+Nguyễn Thị Tâm,"Nhường luôn lại bảo dại, phải bảo thôi cho a ở nhờ đến khi a kiếm được trọ khác a nhường cho v ms nên đc. Chứ theo ad là đứt luôn chứ ở đó mà nên ","nhường luôn lại bảo dại, phải bảo thôi cho anh ở nhờ đến khi anh kiếm được trọ khác anh nhường cho vậy ms nên được. chứ theo admin là đứt luôn chứ ở đó mà nên",Tiêu cực
 Dương Văn Tuấn,Nhường xong n cũng có nhớ mình là ai đâu,nhường xong n cũng có nhớ mình là ai đâu,Tiêu cực
 Hung Manh,K có đâu thầy oi,không có đâu thầy oi,Tiêu cực
-"Nguyễn Thị Hồng Nhung,""Sang cho ở cùng nè phòng 30m2 kê đủ 2 giường, có 2 cửa thích thì treo rèm "",""sang cho ở cùng nè phòng 30m2 kê đủ 2 giường, có 2 cửa thích thì treo rèm"",,,Tích cực"
+Nguyễn Thị Hồng Nhung,"Sang cho ở cùng nè phòng 30m2 kê đủ 2 giường, có 2 cửa thích thì treo rèm ","sang cho ở cùng nè phòng 30m2 kê đủ 2 giường, có 2 cửa thích thì treo rèm",Tích cực
 Nguyen Thi Vi,thế có mà phải cộng 500d svnet thầy ơi,thế có mà phải cộng 500d svnet thầy ơi,Tiêu cực
 Nga Thỵ,Thùy Linh em chưa có trọ thì qua ở với chị,thùy linh em chưa có trọ thì qua ở với chị,Tích cực
 Đỗ Thị Bắc,Member ICTU là thế!,member ictu là thế,Trung lập
@@ -531,7 +531,7 @@ Thuyên Vũ,giấc mơ này thật đẹp,giấc mơ này thật đẹp,Tích c�
 Hoàng Như Ýy,Cho qua nhà ở chung còn được ,cho qua nhà ở chung còn được,Tích cực
 Nguyen Ly Hong Ngoc,Các em ơi về đây chị cho ở cùng nè ,các em ơi về đây chị cho ở cùng nè,Tích cực
 Ngô Thị Mến,Hduc HwyMie Trà đoán xem ai nên nhường trọ nà ,hduc hwymie trà đoán xem ai nên nhường trọ nà,Trung lập
-"Khánh Huyền,""ôi dồi admin ơiiiii, có vẻ rất hóng các sinh viên nên chuyện =))))"",""ôi dồi admin ơii, có vẻ rất hóng các sinh viên nên chuyện"",,,Trung lập"
+Khánh Huyền,"ôi dồi admin ơiiiii, có vẻ rất hóng các sinh viên nên chuyện =))))","ôi dồi admin ơii, có vẻ rất hóng các sinh viên nên chuyện",Trung lập
 Vang Anh,ad có vẻ thích nên chuyện,admin có vẻ thích nên chuyện,Tiêu cực
 Tuấn Hưng,e nào chưa có trọ ib a Đoàn HoàngAnh với Hoàng Hải Lâm hai anh ấy nhường trọ cho :)),em nào chưa có trọ ib anh đoàn hoànganh với hoàng hải lâm hai anh ấy nhường trọ cho,Tích cực
 Huệ,Ngọc Ngân e nào đzai thì ở vs c,ngọc ngân em nào đẹp trai thì ở với chị,Tích cực
@@ -543,10 +543,10 @@ King'y Sinh,Trần Yang thấy gì chưa bí quyết để có Ny tương lai,tr
 Dang Tuan,Ngọc Hiệp em có phòng chưa qua ngủ với anh nhé ,ngọc hiệp em có phòng chưa qua ngủ với anh nhé,Tiêu cực
 Đinh Huyền Trang,Em nào chưa có trọ qua ở với anh Ta Quang Khai,em nào chưa có trọ qua ở với anh ta quang khai,Tiêu cực
 Cao Thaotk,Tại sao không phải là về đây với anh :)),tại sao không phải là về đây với anh,Tiêu cực
-"Thanh Xuaan,""Triệu Văn Dương Trương Vũ 2 anh này ga lăng vl , ko nhường trọ đâu mà sẵn sàng ở chung cơ :)))"",""triệu văn dương trương vũ 2 anh này ga lăng vl , không nhường trọ đâu mà sẵn sàng ở chung cơ"",,,Trung lập"
+Thanh Xuaan,"Triệu Văn Dương Trương Vũ 2 anh này ga lăng vl , ko nhường trọ đâu mà sẵn sàng ở chung cơ :)))","triệu văn dương trương vũ 2 anh này ga lăng vl , không nhường trọ đâu mà sẵn sàng ở chung cơ",Trung lập
 Mai Hiếu,Duong Ngoc Tu Tuấn Trần khuyên các e đi,duong ngoc tu tuấn trần khuyên các em đi,Trung lập
 Hoàng Đức Hạnh,Hiếu Trần Quang Minh nếu 2 bẹn k có trọ thì ở trọ mìn cũng dc mình tìm cái khác,hiếu trần quang minh nếu 2 bẹn không có trọ thì ở trọ mìn cũng được mình tìm cái khác,Tích cực
-"Nguyen Quynh Huong,""Chỗ mình còn phòng nè, đường vào hơi sợ tý thôi "",""chỗ mình còn phòng nè, đường vào hơi sợ tý thôi"",,,Trung lập"
+Nguyen Quynh Huong,"Chỗ mình còn phòng nè, đường vào hơi sợ tý thôi ","chỗ mình còn phòng nè, đường vào hơi sợ tý thôi",Trung lập
 Ngô Xuân Trường,Trịnh Mạnh Cường bạn nhường trọ không bạn để tôi giới thiệu cho,trịnh mạnh cường bạn nhường trọ không bạn để tôi giới thiệu cho,Tích cực
 Ngọc Lưu,Tỉnh ngủ đi ạ ,tỉnh ngủ đi ạ,Trung lập
 Ng Văn Cần,Đăng đúng giờ cbi vào giấc mơ phết,đăng đúng giờ chuẩn bị vào giấc mơ phết,Trung lập
@@ -567,7 +567,7 @@ Ha An,Em nào đẹp trai sang mình nhường cho cả cái nhà,em nào đẹp
 Khánh Linh,Dương Hoà :))) nói đi em,dương hoà nói đi em,Trung lập
 Nguyễn Thị Quỳnh,Thu Hiền để t kiếm cho m a nào nhường trọ nhé ,thu hiền để tôi kiếm cho mày anh nào nhường trọ nhé,Tích cực
 Bích Huệ,Nguyễn Minh Hợp ra ở cùng anh này,nguyễn minh hợp ra ở cùng anh này,Trung lập
-"Anh Kiet,""Từ đây đến hôm nhập học, tìm sẵn mấy chị tnv cho nó quen =))"",""từ đây đến hôm nhập học, tìm sẵn mấy chị tình nguyện viên cho nó quen"",,,Trung lập"
+Anh Kiet,"Từ đây đến hôm nhập học, tìm sẵn mấy chị tnv cho nó quen =))","từ đây đến hôm nhập học, tìm sẵn mấy chị tình nguyện viên cho nó quen",Trung lập
 Ngọc Khánh,Phương Linh kìa,phương linh kìa,Trung lập
 Cấn Xuân Huy,Em chưa có,em chưa có,Tiêu cực
 Quang Huy,Anh Tuan anh có nhà riêng,anh tuan anh có nhà riêng,Trung lập
@@ -632,7 +632,7 @@ Minh Hoang,nâng thêm tv đi adm,nâng thêm thành viên đi adm,Tích cực
 Komeru Huy,Có giải roblox k=)),có giải roblox không,Trung lập
 Khánh Hưng,kết nối sân chơi ictu ặ,kết nối sân chơi ictu ặ,Trung lập
 Duong Quoc Tung,chung vui vớiiiii,chung vui vớii,Tích cực
-"Anh Kiet,""Trường ơi, hay là mình tổ chức giải LOL tầm cỡ LCK được không ạ :))))"",""trường ơi, hay là mình tổ chức giải lol tầm cỡ lck được không ạ"",,,Tiêu cực"
+Anh Kiet,"Trường ơi, hay là mình tổ chức giải LOL tầm cỡ LCK được không ạ :))))","trường ơi, hay là mình tổ chức giải lol tầm cỡ lck được không ạ",Tiêu cực
 Ng Ha Vy,có đc tgia nhiều clb kh ạ=(,có được tham gia nhiều câu lạc bộ không ạ,Tiêu cực
 Phạm Chiến,kh ai game này nhỉ=)),không ai game này nhỉ,Tiêu cực
 Quỳnh Thư,Ui clb này hot thế,ui câu lạc bộ này hot thế,Tích cực
@@ -654,7 +654,7 @@ Lê Quang Tài,Tuyển đàn e tối đi mở rộng địa bàn,tuyển đàn e
 Mùa A Sa,Học mất bao lâu ạ hay tham gia các khoá năm học aa,học mất bao lâu ạ hay tham gia các khoá năm học aa,Trung lập
 Cấn Xuân Huy,Đăng ký như nào ạ,đăng ký như nào ạ,Trung lập
 Nguyễn Hiếu,học phí như nào ạ,học phí như nào ạ,Trung lập
-"Nguyễn Phương Nam,""tuyệt quá, 10 điểm ko có nhưng ạ"",""tuyệt quá, 10 điểm không có nhưng ạ"",,,Tiêu cực"
+Nguyễn Phương Nam,"tuyệt quá, 10 điểm ko có nhưng ạ","tuyệt quá, 10 điểm không có nhưng ạ",Tiêu cực
 Trang Thu,Quỳnh Nguyễn Tân sv đăng ký đi nhỉ,quỳnh nguyễn tân sinh viên đăng ký đi nhỉ,Trung lập
 Nam,Dũng Hee bạn ơi,dũng hee bạn ơi,Tích cực
 Ng Thii Nga,My Linh giao lưu,my linh giao lưu,Trung lập
@@ -663,8 +663,8 @@ Thu Hoàn,Vào clb đi ạSẽ dc phát kẹo nhaa,vào câu lạc bộ đi ạs
 Cẩm Bảo Quyên,Xem đi,xem đi,Trung lập
 Cẩm Bảo Quyên,Ninh Dương Bảo Nhi Xem đi này,ninh dương bảo nhi xem đi này,Tích cực
 Ninh Dương Bảo Nhi,Trông cũng được đấy chứ,trông cũng được đấy chứ,Tích cực
-"Thanh Lan,""chưa thấy tình nguyện viên chỗ nào nhiệt tình, đáng yêu, dễ gần như các anh chị trường này"",""chưa thấy tình nguyện viên chỗ nào nhiệt tình, đáng yêu, dễ gần như các anh chị trường này"",,,Tiêu cực"
-"Bui Chung,""Nay con mình vào được các chị dẫn đi , che ô cho nhưng con mình bảo chị ấy lùn con lại cầm ô cho "",""nay con mình vào được các chị dẫn đi , che ô cho nhưng con mình bảo chị ấy lùn con lại cầm ô cho"",,,Tiêu cực"
+Thanh Lan,"chưa thấy tình nguyện viên chỗ nào nhiệt tình, đáng yêu, dễ gần như các anh chị trường này","chưa thấy tình nguyện viên chỗ nào nhiệt tình, đáng yêu, dễ gần như các anh chị trường này",Tiêu cực
+Bui Chung,"Nay con mình vào được các chị dẫn đi , che ô cho nhưng con mình bảo chị ấy lùn con lại cầm ô cho ","nay con mình vào được các chị dẫn đi , che ô cho nhưng con mình bảo chị ấy lùn con lại cầm ô cho",Tiêu cực
 Trần Thu Thảo,các anh chị tnv đáng yêu vô cùng ạ:))),các anh chị tình nguyện viên đáng yêu vô cùng ạ,Tích cực
 Nguyễn Thị Quỳnh,Ngọc Huyền chỉ vì không cầm trang bị là hồ sơ mà 2 bọn tôi đã không được che ô =))),ngọc huyền chỉ vì không cầm trang bị là hồ sơ mà 2 bọn tôi đã không được che ô,Tiêu cực
 Thit Ba Chỉ,- 1 Công Thanh Toán- Xe đưa đón free,1 công thanh toán xe đưa đón free,Tích cực
@@ -744,16 +744,16 @@ Thảo Thảoo,Băng Hàn a zai người hả,băng hàn anh zai người hả,T
 Nghiem Thi Ngoc Anh,Tran Thi Le Chi kìaa,tran thi le chi kìaa,Tiêu cực
 Thảo Thảoo,Băng Hàn ruột thừa thế nào K bù cho nhau tí Chj 1% này chết,băng hàn ruột thừa thế nào không bù cho nhau tí chj 1 này chết,Tiêu cực
 Thanh Huyenn,Nguyen Thi Le tìm bạn Tùng Dương ạ,nguyen thi le tìm bạn tùng dương ạ,Trung lập
-"Nguyen Pham Thu An,""K tin 2007, cho fb mới tin ạ"",""không tin 2007, cho facebook mới tin ạ"",,,Trung lập"
+Nguyen Pham Thu An,"K tin 2007, cho fb mới tin ạ","không tin 2007, cho facebook mới tin ạ",Trung lập
 Do Duc Hien,đù,đù,Tiêu cực
 Tùng Phan,page đăng bạn này lên đây làm gì thế ạ=)),page đăng bạn này lên đây làm gì thế ạ,Tiêu cực
 Nguyễn Thị Thương,ai thiết kế đồ hoạ thế page:)?,ai thiết kế đồ hoạ thế page,Trung lập
 Nguyễn Quang Huy,Vừa sáng che ô đưa lên c6 xong=)),vừa sáng che ô đưa lên c6 xong,Tích cực
 Nguyễn Thị Thương,em học công nghệ truyền thông mà trường ơi…,em học công nghệ truyền thông mà trường ơi,Trung lập
-"Vy Vy,""Ok em Thương - 2K7, tân sinh viên ngành Công nghệ truyền thông lấy cho tôi ly nước cam!!!"",""ok em thương 2k7, tân sinh viên ngành công nghệ truyền thông lấy cho tôi ly nước cam"",,,Trung lập"
-"Ng Hải,""Thương xinh quá, mong ad tiếp tục đăng các bạn khác nữa ạ "",""thương xinh quá, mong admin tiếp tục đăng các bạn khác nữa ạ"",,,Trung lập"
+Vy Vy,"Ok em Thương - 2K7, tân sinh viên ngành Công nghệ truyền thông lấy cho tôi ly nước cam!!!","ok em thương 2k7, tân sinh viên ngành công nghệ truyền thông lấy cho tôi ly nước cam",Trung lập
+Ng Hải,"Thương xinh quá, mong ad tiếp tục đăng các bạn khác nữa ạ ","thương xinh quá, mong admin tiếp tục đăng các bạn khác nữa ạ",Trung lập
 Nguyễn Phong,Không biết bạn này đã thi bằng lái xe chưa nhỉ,không biết bạn này đã thi bằng lái xe chưa nhỉ,Trung lập
-"Thành Nguyễn,""400k/11 giờ, tuyển công nhân đi làm khu công nghiệp, thanh toán lương sau buổi làm, ae nào đi làm ib nha"",""400k/11 giờ, tuyển công nhân đi làm khu công nghiệp, thanh toán lương sau buổi làm, anh em nào đi làm ib nha"",,,Trung lập"
+Thành Nguyễn,"400k/11 giờ, tuyển công nhân đi làm khu công nghiệp, thanh toán lương sau buổi làm, ae nào đi làm ib nha","400k/11 giờ, tuyển công nhân đi làm khu công nghiệp, thanh toán lương sau buổi làm, anh em nào đi làm ib nha",Trung lập
 Minh Tuấn,anh cũng ngành công nghệ thông tin 4 năm trc nè :)))),anh cũng ngành công nghệ thông tin 4 năm trước nè,Tích cực
 Thomas Nguyen,em xinh thua mỗi Vợ anh =)))),em xinh thua mỗi vợ anh,Tiêu cực
 N Van Hai,Giống gọi … vler:)),giống gọi vler,Trung lập
@@ -803,7 +803,7 @@ Nguyễn Trâm,cho em hỏi là khu vực quảng trường ở trong trường 
 Hang Ngo,Hôm qua con mình đã nhập học. Được các tình nguyện viên tiếp đón tận tình,hôm qua con mình đã nhập học. được các tình nguyện viên tiếp đón tận tình,Tích cực
 Khanh Ngoc,Các ngưu ma vương đợi em,các ngưu ma vương đợi em,Tiêu cực
 Hoàng Tuấn,Xin cánh tay các ní đi nhập học một mình,xin cánh tay các ní đi nhập học một mình,Tiêu cực
-"Nhw Quynhh,""Hôm nay em vừa đi tập huấn xong về lại quên mất rồi, thầy cho em xin hỏi phần xác nhận chụp ảnh thẻ là ai ký tên ạ, lúc thầy hỏi còn câu hỏi nào không em lại chưa quên, về nhà lại quên ạ:((("",""hôm nay em vừa đi tập huấn xong về lại quên mất rồi, thầy cho em xin hỏi phần xác nhận chụp ảnh thẻ là ai ký tên ạ, lúc thầy hỏi còn câu hỏi nào không em lại chưa quên, về nhà lại quên ạ"",,,Trung lập"
+Nhw Quynhh,"Hôm nay em vừa đi tập huấn xong về lại quên mất rồi, thầy cho em xin hỏi phần xác nhận chụp ảnh thẻ là ai ký tên ạ, lúc thầy hỏi còn câu hỏi nào không em lại chưa quên, về nhà lại quên ạ:(((","hôm nay em vừa đi tập huấn xong về lại quên mất rồi, thầy cho em xin hỏi phần xác nhận chụp ảnh thẻ là ai ký tên ạ, lúc thầy hỏi còn câu hỏi nào không em lại chưa quên, về nhà lại quên ạ",Trung lập
 Hùng Nguyễn,Em nhà hơi xa đến muộn xíu nên muốn hỏi chút là sáng trường mình bình thường làm việc đến mấy giờ là nghỉ rồi ạ,em nhà hơi xa đến muộn xíu nên muốn hỏi chút là sáng trường mình bình thường làm việc đến mấy giờ là nghỉ rồi ạ,Trung lập
 Nguyễn Văn Hồng,Nhỡ tình nguyện viên không nhiệt tình thì sao nhơg,nhỡ tình nguyện viên không nhiệt tình thì sao nhơg,Tiêu cực
 Nga Thanh,Nhà xe của trường thì đi cổng trước hay cổng sau vào vậy ạ,nhà xe của trường thì đi cổng trước hay cổng sau vào vậy ạ,Trung lập
@@ -813,7 +813,7 @@ Phương Thảo,oaaaa có được các anh chị cầm tay chỉ không ạ ,oa
 Trung Kiên,Cần chj nào dẫn đi tham quan trường ạ ,cần chj nào dẫn đi tham quan trường ạ,Trung lập
 Viet Danhh,e gẫy tay thì viết hồ sơ kiểu gì truonggg oi,em gẫy tay thì viết hồ sơ kiểu gì truongg oi,Tiêu cực
 Hai Anh,đi sớm liệu xong sớm k nhỉ,đi sớm liệu xong sớm không nhỉ,Trung lập
-"Khánh Nguyễn,""Cảm ơn các cháu TNV , các cháu rất nhiệt tình và chu đáo, chú đưa em lên nhập học mà được các cháu che ô cho từ cổng vào đến tận nơi nhập học.rồi các cháu hướng dẫn các bước rất nhiệt tình."",""cảm ơn các cháu tình nguyện viên , các cháu rất nhiệt tình và chu đáo, chú đưa em lên nhập học mà được các cháu che ô cho từ cổng vào đến tận nơi nhập học.rồi các cháu hướng dẫn các bước rất nhiệt tình."",,,Trung lập"
+Khánh Nguyễn,"Cảm ơn các cháu TNV , các cháu rất nhiệt tình và chu đáo, chú đưa em lên nhập học mà được các cháu che ô cho từ cổng vào đến tận nơi nhập học.rồi các cháu hướng dẫn các bước rất nhiệt tình.","cảm ơn các cháu tình nguyện viên , các cháu rất nhiệt tình và chu đáo, chú đưa em lên nhập học mà được các cháu che ô cho từ cổng vào đến tận nơi nhập học.rồi các cháu hướng dẫn các bước rất nhiệt tình.",Trung lập
 Hoàng Minh Hiền,Hôm đấy phải mặc áo sơ mi trắng không ạ,hôm đấy phải mặc áo sơ mi trắng không ạ,Trung lập
 Phong Bùi,ai tự động hoá k,ai tự động hoá không,Trung lập
 Thủy,Tan Duy nhớ là cứ phải các chị dắt mới vào nhé ,tan duy nhớ là cứ phải các chị dắt mới vào nhé,Tiêu cực
@@ -886,7 +886,7 @@ Nhi Nhi,rồi đi thi thì sao đem thêm cccd hả,rồi đi thi thì sao đem 
 Nguyễn Minh Phương,Căn cước công dân nào có cái mặt này??,căn cước công dân nào có cái mặt này,Trung lập
 Đỗ Huân,Ố xồ ô,ố xồ ô,Trung lập
 Tran Phương Anh,Giời cứu,giời cứu,Tiêu cực
-"Lê Hải,""Phương Ly Phương Anh đồ đó, ngại show mặt đồ đó"",""phương ly phương anh đồ đó, ngại show mặt đồ đó"",,,Tiêu cực"
+Lê Hải,"Phương Ly Phương Anh đồ đó, ngại show mặt đồ đó","phương ly phương anh đồ đó, ngại show mặt đồ đó",Tiêu cực
 Khánh Ly,Thanh Thuý cười vc,thanh thuý cười vc,Tích cực
 Triệu Nguyễn,Duy Hà mạnh thí ,duy hà mạnh thí,Tích cực
 Lưu Quang Công,da dại,da dại,Trung lập
@@ -896,7 +896,7 @@ Quangg Lê,Phương anh thế nào lại mạnh,phương anh thế nào lại m�
 Mạnh Tuấn,cho chừa luôn :)),cho chừa luôn,Tiêu cực
 Nguyễn Thị Thương,ngại hết cả Phương Anh…,ngại hết cả phương anh,Tiêu cực
 Ng Linh,E làm lại thẻ đc kh ạ =)))),em làm lại thẻ được không ạ,Trung lập
-"Trần Thị Thanh Hằng,""Phuong Anh đã bảo rồi , không có làm dị"",""phuong anh đã bảo rồi , không có làm dị"",,,Tiêu cực"
+Trần Thị Thanh Hằng,"Phuong Anh đã bảo rồi , không có làm dị","phuong anh đã bảo rồi , không có làm dị",Tiêu cực
 Pham Tuan Anh,Pham Anh choáy thíiii,pham anh choáy thíii,Tích cực
 Hoàng Hoa Thắm,Hoàng T. Công Linh trường để có hsinh nộp ảnh là có ảnh thẻ đẹp r=)),hoàng tôi. công linh trường để có hsinh nộp ảnh là có ảnh thẻ đẹp rồi,Tích cực
 Linh Lan Hương,Tuổi nàii khó bảo ,tuổi nàii khó bảo,Tiêu cực
@@ -908,13 +908,13 @@ Quân Vũ,Mạnh thíi,mạnh thíi,Tích cực
 Nguyễn An,Duong TA thử đi em,duong ta thử đi em,Trung lập
 Khanh Linh,E lỡ chỉnh lố khác ở ngoài quá trường có cho e vào phòng thi ko,em lỡ chỉnh lố khác ở ngoài quá trường có cho em vào phòng thi không,Tiêu cực
 Chu Thị Khánh Ly,mấy nữa thi mặt k giống ảnh k được vào :)),mấy nữa thi mặt không giống ảnh không được vào,Tiêu cực
-"Hoàn Kim,""Check thấy mặt với thẻ không trùng, giám thị đuổi ra ngoài,"",""check thấy mặt với thẻ không trùng, giám thị đuổi ra ngoài,"",,,Tiêu cực"
+Hoàn Kim,"Check thấy mặt với thẻ không trùng, giám thị đuổi ra ngoài,","check thấy mặt với thẻ không trùng, giám thị đuổi ra ngoài,",Tiêu cực
 Kanna,Vũ Duy phong cách,vũ duy phong cách,Tích cực
 Lê Yến,Lê Phương Hảo hihi,lê phương hảo hihi,Tích cực
 Hoang Vinh Hung,ngại hết cả phương anh,ngại hết cả phương anh,Tiêu cực
-"Minh Đoàn Quang,""bây h mặt béo thì có ảnh thẻ sv, về sau e giảm béo thì có đc thay ảnh thẻ sv khác ko ạ"",""bây giờ mặt béo thì có ảnh thẻ sinh viên, về sau em giảm béo thì có được thay ảnh thẻ sinh viên khác không ạ"",,,Tiêu cực"
+Minh Đoàn Quang,"bây h mặt béo thì có ảnh thẻ sv, về sau e giảm béo thì có đc thay ảnh thẻ sv khác ko ạ","bây giờ mặt béo thì có ảnh thẻ sinh viên, về sau em giảm béo thì có được thay ảnh thẻ sinh viên khác không ạ",Tiêu cực
 Sơn Nguyễn,ngại hết cả thẻ:)),ngại hết cả thẻ,Tiêu cực
-"Khắc Hoàn,""Lu Na, An kìa"",""lu na, an kìa"",,,Tiêu cực"
+Khắc Hoàn,"Lu Na, An kìa","lu na, an kìa",Tiêu cực
 Nhíp Em,Hết cứu,hết cứu,Tiêu cực
 Viet Anh Vũ,Ác,ác,Tiêu cực
 Tran Quang Khai,thế nào lại mạnh:)),thế nào lại mạnh,Tích cực
@@ -924,7 +924,7 @@ Lưu Trọng Đức,Được luôn hả thầy hh,được luôn hả thầy hh,
 Song Toàn,Chừa luôn:),chừa luôn,Tiêu cực
 Nhi Hoàng,Cùng ngày sinh t luôn =)) Hà Quỳnh Thương,cùng ngày sinh tôi luôn hà quỳnh thương,Tích cực
 Ngọc Ánh,Thao Anh chống ngại,thao anh chống ngại,Tích cực
-"Viet Anh Nguyen,""Tôi, vừa tốt nghiệp xong nhưng chưa được cầm cái thẻ học sinh bao giờ ( thi toàn mang căn cước )"",""tôi, vừa tốt nghiệp xong nhưng chưa được cầm cái thẻ học sinh bao giờ thi toàn mang căn cước"",,,Tiêu cực"
+Viet Anh Nguyen,"Tôi, vừa tốt nghiệp xong nhưng chưa được cầm cái thẻ học sinh bao giờ ( thi toàn mang căn cước )","tôi, vừa tốt nghiệp xong nhưng chưa được cầm cái thẻ học sinh bao giờ thi toàn mang căn cước",Tiêu cực
 Lý Thị Huệ,Quynh Chi đây à,quynh chi đây à,Trung lập
 Hà Văn Đông,thế nào lại mạnh thí,thế nào lại mạnh thí,Trung lập
 Yến Nhi,Mai Thy đùa thôi và đây là trò đùa của nó,mai thy đùa thôi và đây là trò đùa của nó,Trung lập
@@ -936,12 +936,12 @@ Lê Minh Hải,Đỗ Tiến Đạt ra dại luôn :)),đỗ tiến đạt ra d�
 Phạm Vũ Anh Thu,Bích Diệp hài vải,bích diệp hài vải,Tích cực
 Phung Phong Lan,Rấcc đáng iu,rấcc đáng iu,Tích cực
 Phạm Công,Huong Pm thế hệ cợt nhả làm sinh viên =)),huong pm thế hệ cợt nhả làm sinh viên,Tiêu cực
-"Trần Tuấn Anh,""Hà Ngọc Nhật Quang  Đã tìm được người tự tin hơn em Ta, ngai vàng phải trao lại thôi"",""hà ngọc nhật quang đã tìm được người tự tin hơn em ta, ngai vàng phải trao lại thôi"",,,Tiêu cực"
+Trần Tuấn Anh,"Hà Ngọc Nhật Quang  Đã tìm được người tự tin hơn em Ta, ngai vàng phải trao lại thôi","hà ngọc nhật quang đã tìm được người tự tin hơn em ta, ngai vàng phải trao lại thôi",Tiêu cực
 Thu Hà,Thanh Thuỷ cô ơi cô,thanh thuỷ cô ơi cô,Tích cực
 Bạchh Thuu Phươngg,Lê Kim Kitty,lê kim kitty,Trung lập
 Hạ Mây,Mỹ Uyên cùng avt,mỹ uyên cùng avt,Tiêu cực
 Huyen Diep,Ha Nguyen Anh Phuong khó lói=)),ha nguyen anh phuong khó lói,Tiêu cực
-"Trần Minh Anh,""Hồi trc thấy có khứa để ảnh con mèo, xong nhà trường cũng in ra mèo thật ?"",""hồi trước thấy có khứa để ảnh con mèo, xong nhà trường cũng in ra mèo thật"",,,Trung lập"
+Trần Minh Anh,"Hồi trc thấy có khứa để ảnh con mèo, xong nhà trường cũng in ra mèo thật ?","hồi trước thấy có khứa để ảnh con mèo, xong nhà trường cũng in ra mèo thật",Trung lập
 Nam Trần,Phuong Anh bà hả:),phuong anh bà hả,Trung lập
 Nguyễn Thành Công,Lệ Quyên không dám nhận!,lệ quyên không dám nhận,Tiêu cực
 Linh Phuong,Trịnh Hồng Nhung chưa có dấu hiệu ngưng cươid,trịnh hồng nhung chưa có dấu hiệu ngưng cươid,Tích cực
@@ -951,7 +951,7 @@ Trinh Thanh Phuong,Ngại hết cả phương anh ,ngại hết cả phương an
 Hồngg Hạnh,Ds của kte à,danh sách của kinh tế à,Trung lập
 Em Be,Phương Anh còn ổn kh,phương anh còn ổn không,Tiêu cực
 Hươngg Lii,Phạm Thu Hà đáo để chưa kìa kk,phạm thu hà đáo để chưa kìa kk,Tích cực
-"Lộc Đinh,""Phuong Anh Hoang ê thử đi m, cũng Phanh đó"",""phuong anh hoang ê thử đi mày, cũng phanh đó"",,,Trung lập"
+Lộc Đinh,"Phuong Anh Hoang ê thử đi m, cũng Phanh đó","phuong anh hoang ê thử đi mày, cũng phanh đó",Trung lập
 Nguyen Pham Thu An,Ngại hết cả sinh viên ,ngại hết cả sinh viên,Tiêu cực
 Minh Phương,Vô cùng,vô cùng,Tích cực
 Phương Linh,Ngọc Khánh ngại hết cả thẻ =)),ngọc khánh ngại hết cả thẻ,Tiêu cực
@@ -969,7 +969,7 @@ Lan Anh,Nguyen Ba Thanh Lam ngại hết cả Phanh,nguyen ba thanh lam ngại h
 Thanhh Maii,Ngwien Thao trg m=)),ngwien thao trường mày,Tiêu cực
 Nguyễn Tố Khanh,Huyền bảo Mến share phòng cho 1 em zai nào đi,huyền bảo mến share phòng cho 1 em zai nào đi,Tích cực
 Triệu P. Bao,Trọ Thái Nguyên ngáo giá hơn Hà Nội,trọ thái nguyên ngáo giá hơn hà nội,Tiêu cực
-"Nông Văn Đô,""Hà Văn Lượng vào dọn phòng ktx đón các em đi, ôm 1 mình 1 phonhf thế k đc đâu =))))"",""hà văn lượng vào dọn phòng kí túc xá đón các em đi, ôm 1 mình 1 phonhf thế không được đâu"",,,Trung lập"
+Nông Văn Đô,"Hà Văn Lượng vào dọn phòng ktx đón các em đi, ôm 1 mình 1 phonhf thế k đc đâu =))))","hà văn lượng vào dọn phòng kí túc xá đón các em đi, ôm 1 mình 1 phonhf thế không được đâu",Trung lập
 Thủy,Tan Duy xem có chị nào share phòng kh =))),tan duy xem có chị nào share phòng không,Tích cực
 TrầnNguyễn ĐứcAnh,mong trường cho e ở cùng các chị để tiện chia sẽ với e hơn ạ !,mong trường cho em ở cùng các chị để tiện chia sẽ với em hơn ạ,Tích cực
 Hoàng Thu Huyền,+1 tsv k tìm đc trọ,1 tân sinh viên không tìm được trọ,Tiêu cực
@@ -985,8 +985,8 @@ Lường Thanh Tùng,Em chưa có phòng chị nào cho em ở ké với hứa l
 Thu Hường,Mình nhận 10 bạn nam nhé Mỹ Dung cj nhận cho cả em với linh nhé,mình nhận 10 bạn nam nhé mỹ dung cj nhận cho cả em với linh nhé,Trung lập
 Ninh Xuân Hải,Kim Hoàng ko phải sinh viên thì có ở ghép đc ko ta,kim hoàng không phải sinh viên thì có ở ghép được không ta,Trung lập
 Vanh Ha,Cần gấp 10 bạn nữ ở ghép ạ,cần gấp 10 bạn nữ ở ghép ạ,Trung lập
-"Dương Tiến Đạt,""Nguyễn Vương Bạn này đag tìm người ở ghép . đ zai, vui tính . Ưu tiên các bạn nữ nha"",""nguyễn vương bạn này đag tìm người ở ghép . đ zai, vui tính . ưu tiên các bạn nữ nha"",,,Trung lập"
-"Đỗ Triệu Minh,""Mình nhận 100 bạn nữ ở ghép, nhà 4 tầng 500m2, ở tá lả ko hết"",""mình nhận 100 bạn nữ ở ghép, nhà 4 tầng 500m2, ở tá lả không hết"",,,Trung lập"
+Dương Tiến Đạt,"Nguyễn Vương Bạn này đag tìm người ở ghép . đ zai, vui tính . Ưu tiên các bạn nữ nha","nguyễn vương bạn này đag tìm người ở ghép . đ zai, vui tính . ưu tiên các bạn nữ nha",Trung lập
+Đỗ Triệu Minh,"Mình nhận 100 bạn nữ ở ghép, nhà 4 tầng 500m2, ở tá lả ko hết","mình nhận 100 bạn nữ ở ghép, nhà 4 tầng 500m2, ở tá lả không hết",Trung lập
 Area Luna,Em cần tìm người ở ghép cùng ạ còn chị nào trống phòng không ạ,em cần tìm người ở ghép cùng ạ còn chị nào trống phòng không ạ,Tiêu cực
 Đoàn HoàngAnh,phòng 50m2 chỉ nhận ở ghép với các bạn nữ…,phòng 50m2 chỉ nhận ở ghép với các bạn nữ,Trung lập
 Phan Quyết Thắng,lạy các bố:),lạy các bố,Tiêu cực
@@ -997,12 +997,12 @@ Duc Nguyen,Ai cho mình ở ghép với ạ,ai cho mình ở ghép với ạ,Ti�
 Minh Đàm,Cũng mong bạn nam k24 nào đó cho mình ở ghép cùng,cũng mong bạn nam k24 nào đó cho mình ở ghép cùng,Trung lập
 Hoang Thanh Phong,Tuan Anh Lâm Quyết  có thể care dc x2 ưu tiên nữ =)),tuan anh lâm quyết có thể care được x2 ưu tiên nữ,Trung lập
 Hoàng Quân,Mình nhận cho nữ ở ghép nha,mình nhận cho nữ ở ghép nha,Trung lập
-"Ngô Thị Mến,""Hduc Hwy uki nhé, bạn mình dg muốn ở ghép ạ"",""hduc hwy uki nhé, bạn mình dg muốn ở ghép ạ"",,,Trung lập"
+Ngô Thị Mến,"Hduc Hwy uki nhé, bạn mình dg muốn ở ghép ạ","hduc hwy uki nhé, bạn mình dg muốn ở ghép ạ",Trung lập
 Thit Ba Chỉ,Nhận 20 nữ nhé,nhận 20 nữ nhé,Trung lập
 Quan Anh,Tạ Văn Quang bạn này nhận full nữ sll nhé,tạ văn quang bạn này nhận full nữ sll nhé,Tiêu cực
 Mai Đoàn Khiếu,Nhà mình rộng nam nữ ở đều được mình free chỗ ăn ở Nhà mình cách ICTU 50km ai muốn ở ghép ib mình,nhà mình rộng nam nữ ở đều được mình free chỗ ăn ở nhà mình cách ictu 50km ai muốn ở ghép ib mình,Trung lập
 Nguyễn Minh Chiến,Dino San hỏi có ghép nữ không để a chuyển trg,dino san hỏi có ghép nữ không để anh chuyển trường,Tiêu cực
-"Tran Bao Linhh,""nhà còn trống 2 phòng, chỉ nhận nữ, phí tình cảm  ib Nguyễn Huy nhé mn"",""nhà còn trống 2 phòng, chỉ nhận nữ, phí tình cảm ib nguyễn huy nhé mọi người"",,,Trung lập"
+Tran Bao Linhh,"nhà còn trống 2 phòng, chỉ nhận nữ, phí tình cảm  ib Nguyễn Huy nhé mn","nhà còn trống 2 phòng, chỉ nhận nữ, phí tình cảm ib nguyễn huy nhé mọi người",Trung lập
 Hồ Lý,Tài Đỗ hỗ trợ các em nhé,tài đỗ hỗ trợ các em nhé,Tích cực
 Dũng,Nông V. Hiếu anh này tìm người ở ghép đặc biệt là các em năm nhất nhé,nông vậy. hiếu anh này tìm người ở ghép đặc biệt là các em năm nhất nhé,Tiêu cực
 Minh,Quốc Hanh anh này cần 2 em nữ ở ghép,quốc hanh anh này cần 2 em nữ ở ghép,Tiêu cực
@@ -1013,21 +1013,21 @@ Tiến Đạt,Em chưa có phòng chị nào cho em ở với ạ,em chưa có p
 Lăng Văn Sángg,Lăng Thiện nhận 2 nữ nhé (,lăng thiện nhận 2 nữ nhé,Tiêu cực
 Nguyễn Thái Bình Dương,Em gái nào ở ghép thì nhắn anh nhé nam thì đừng nhắn ￼,em gái nào ở ghép thì nhắn anh nhé nam thì đừng nhắn,Tiêu cực
 Thái Bảo,Mình có bạn Duong Duc Anh cũng đang tìm 1 bạn nữ ở ghép,mình có bạn duong duc anh cũng đang tìm 1 bạn nữ ở ghép,Trung lập
-"Đinh Thị Hà Trang,""Mình nhận bạn nam nhé, tiện tìm phòng luôn tại mình chưa có phòng"",""mình nhận bạn nam nhé, tiện tìm phòng luôn tại mình chưa có phòng"",,,Trung lập"
+Đinh Thị Hà Trang,"Mình nhận bạn nam nhé, tiện tìm phòng luôn tại mình chưa có phòng","mình nhận bạn nam nhé, tiện tìm phòng luôn tại mình chưa có phòng",Trung lập
 Long Châu,Trang Mon Huyền Nấm Quách Huyền Trang ở ké với các bạn ơi,trang mon huyền nấm quách huyền trang ở ké với các bạn ơi,Trung lập
 Đinh Thị Thu Huệ,Đặng Thị Diễm Quỳnh Cho em nhận 10 bạn nam ạ,đặng thị diễm quỳnh cho em nhận 10 bạn nam ạ,Trung lập
 Nguyễn Công Minh,Nhận nữ ở ghép ạ,nhận nữ ở ghép ạ,Tiêu cực
 Tú Triệu,Ôi em nào ở cùng ib,ôi em nào ở cùng ib,Tiêu cực
 Nguyễn Kim Toàn,Duong Minh Duyet trọ b này cách trường 6km đang tìm người ở ghép ( ưu tiên các bạn NỮ),duong minh duyet trọ bạn này cách trường 6km đang tìm người ở ghép ưu tiên các bạn nữ,Trung lập
-"Đặng Linh,""Mình nhận ở ghép, nữ là được, nhà có phòng trống :>"",""mình nhận ở ghép, nữ là được, nhà có phòng trống"",,,Trung lập"
+Đặng Linh,"Mình nhận ở ghép, nữ là được, nhà có phòng trống :>","mình nhận ở ghép, nữ là được, nhà có phòng trống",Trung lập
 Vũ Nguyễn Thị Quỳnh,Thu Trang cho ở thêm 2 đứa đi:),thu trang cho ở thêm 2 đứa đi,Trung lập
-"Nguyen Thai Hoc,""Mình cần 5 bạn nữ ở ghép, chỉ cần gọn gàng sạch sẽ, biết nấu ăn và đặc biệt là phải dũng cảm là được"",""mình cần 5 bạn nữ ở ghép, chỉ cần gọn gàng sạch sẽ, biết nấu ăn và đặc biệt là phải dũng cảm là được"",,,Trung lập"
-"Thuỳy Trang,""Nguyen Thi Thuongg em nào đẹp trai ib, 5-10 em còn được"",""nguyen thi thuongg em nào đẹp trai ib, 5 10 em còn được"",,,Trung lập"
+Nguyen Thai Hoc,"Mình cần 5 bạn nữ ở ghép, chỉ cần gọn gàng sạch sẽ, biết nấu ăn và đặc biệt là phải dũng cảm là được","mình cần 5 bạn nữ ở ghép, chỉ cần gọn gàng sạch sẽ, biết nấu ăn và đặc biệt là phải dũng cảm là được",Trung lập
+Thuỳy Trang,"Nguyen Thi Thuongg em nào đẹp trai ib, 5-10 em còn được","nguyen thi thuongg em nào đẹp trai ib, 5 10 em còn được",Trung lập
 Chau Anh,Vũ Khắc Vinh nhận mấy b hả a …,vũ khắc vinh nhận mấy bạn hả anh,Trung lập
 Nguyễn Thanh Huyền,Mình nhận 2 bạn nam nhé,mình nhận 2 bạn nam nhé,Trung lập
-"Chi Là Chi,""Mình nhận 1 bạn ( ưu tiên nam). Có ielts 8. là lợi thế, kinh nghiệm từ 3 năm trở lên. Không biết việc sẽ đc hỗ trợ nhiệt tình."",""mình nhận 1 bạn ưu tiên nam . có ielts 8. là lợi thế, kinh nghiệm từ 3 năm trở lên. không biết việc sẽ được hỗ trợ nhiệt tình."",,,Trung lập"
+Chi Là Chi,"Mình nhận 1 bạn ( ưu tiên nam). Có ielts 8. là lợi thế, kinh nghiệm từ 3 năm trở lên. Không biết việc sẽ đc hỗ trợ nhiệt tình.","mình nhận 1 bạn ưu tiên nam . có ielts 8. là lợi thế, kinh nghiệm từ 3 năm trở lên. không biết việc sẽ được hỗ trợ nhiệt tình.",Trung lập
 Vũ Thị Tuyết Nhung,Trần Thị Ngọc Diễm b nhận nam hay nữ,trần thị ngọc diễm bạn nhận nam hay nữ,Trung lập
-"Hương Thảo,""Ý là mình cũng k có trọ mà các b gọi thuê nhiệt tình zữ lun ý , ước có dãy cho các b thuê cũng đỡ ha"",""ý là mình cũng không có trọ mà các bạn gọi thuê nhiệt tình zữ lun ý , ước có dãy cho các bạn thuê cũng đỡ ha"",,,Trung lập"
+Hương Thảo,"Ý là mình cũng k có trọ mà các b gọi thuê nhiệt tình zữ lun ý , ước có dãy cho các b thuê cũng đỡ ha","ý là mình cũng không có trọ mà các bạn gọi thuê nhiệt tình zữ lun ý , ước có dãy cho các bạn thuê cũng đỡ ha",Trung lập
 Minh Dương,nhà mình còn 1 phòng trống nhé nma là nhà mình không phải nhà trọ=)),nhà mình còn 1 phòng trống nhé nma là nhà mình không phải nhà trọ,Tích cực
 Yến Dương,Hong Loan nhanh nhanh,hong loan nhanh nhanh,Tiêu cực
 Sỹ Tuyền,Lê Đức qua giúp đi bạn ơi,lê đức qua giúp đi bạn ơi,Tiêu cực
@@ -1064,12 +1064,12 @@ Nguyễn Phong Sơn,Cần tìm 5 b nữ ở ghép với mình :)),cần tìm 5 b
 Linh Chi,Nguyễn TuânThùy Trang ở ghép 1:3,nguyễn tuânthùy trang ở ghép 1 3,Trung lập
 Huy Thiên,Nguyễn Mạnh Tuấn  bạn nhập học đến đâu rồi :))),nguyễn mạnh tuấn bạn nhập học đến đâu rồi,Trung lập
 Bế Duy,Nguyễn Minh Hiếu cho mấy e ở ghép đi b,nguyễn minh hiếu cho mấy em ở ghép đi bạn,Trung lập
-"Hưng,""Tnuter góp tý công sức , nhận nam (nữ bỏ qua) , t là nam nhé , ko chơi bộ môn đấu kiếm"",""tnuter góp tý công sức , nhận nam nữ bỏ qua , tôi là nam nhé , không chơi bộ môn đấu kiếm"",,,Tiêu cực"
+Hưng,"Tnuter góp tý công sức , nhận nam (nữ bỏ qua) , t là nam nhé , ko chơi bộ môn đấu kiếm","tnuter góp tý công sức , nhận nam nữ bỏ qua , tôi là nam nhé , không chơi bộ môn đấu kiếm",Tiêu cực
 Duong Thuy Linh,Quynh Chi cho các em nam ở ghép,quynh chi cho các em nam ở ghép,Trung lập
 Khánh QD,Mình nhận 2 b nữ k yc biết giặt đồ và tự nấu ăn là dc,mình nhận 2 bạn nữ không yêu cầu biết giặt đồ và tự nấu ăn là được,Tích cực
 Tạ Đức Thắng,Cẩn thận không giật mình đấy,cẩn thận không giật mình đấy,Tiêu cực
 Nguyễn Ngocngoc Anh,Có ai ở ko cho ở ghép với con gái,có ai ở không cho ở ghép với con gái,Trung lập
-"Tuấn Lưu,""Ai có nhu cầu sang tháng 9 ở CC Tiến Bộ 2ngủ mình trống 1 phòng ở rộng, đẹp, sạch phù hợp 2 ng ở cả điện nc rơi tầm 3tr7-4tr/th"",""ai có nhu cầu sang tháng 9 ở cc tiến bộ 2ngủ mình trống 1 phòng ở rộng, đẹp, sạch phù hợp 2 người ở cả điện nc rơi tầm 3tr7 4tr/th"",,,Tiêu cực"
+Tuấn Lưu,"Ai có nhu cầu sang tháng 9 ở CC Tiến Bộ 2ngủ mình trống 1 phòng ở rộng, đẹp, sạch phù hợp 2 ng ở cả điện nc rơi tầm 3tr7-4tr/th","ai có nhu cầu sang tháng 9 ở cc tiến bộ 2ngủ mình trống 1 phòng ở rộng, đẹp, sạch phù hợp 2 người ở cả điện nc rơi tầm 3tr7 4tr/th",Tiêu cực
 Dũng Mạnh,Quang Bùi Duy kìa,quang bùi duy kìa,Trung lập
 Bánh Cuốn Chanh,Hỗ trợ chống ế nữa thì qía tuyệt!!!,hỗ trợ chống ế nữa thì qía tuyệt,Tích cực
 Hoàng Minh Quyến,Nongg Hoàng Nhật Anht nhận bạn nam nào ở ghép đi kìa,nongg hoàng nhật anht nhận bạn nam nào ở ghép đi kìa,Trung lập
@@ -1093,7 +1093,7 @@ Viet Anh,Thân Thế Mạnh nhận ghép tối thiểu 1 nữ còn nhiều thì 
 Dương Hiếu,Trọng Đô  chỉ chờ có thế,trọng đô chỉ chờ có thế,Tích cực
 Tráng,Tùng Xu nhận ghép thêm 2 em đi,tùng xu nhận ghép thêm 2 em đi,Tích cực
 Yến Vy,với tầm lòng bao la thì mình học Tue e zai nao cần ib c nhé,với tầm lòng bao la thì mình học tue em zai nao cần ib chị nhé,Tích cực
-"Vũ Văn Tình,""Mình chống mấy phòngmình có thể ở ghép cùng 4,5 chị em cũng được"",""mình chống mấy phòngmình có thể ở ghép cùng 4,5 chị em cũng được"",,,Trung lập"
+Vũ Văn Tình,"Mình chống mấy phòngmình có thể ở ghép cùng 4,5 chị em cũng được","mình chống mấy phòngmình có thể ở ghép cùng 4,5 chị em cũng được",Trung lập
 Nguyễn Khánh,Luat Dam Van phòng khả năng thêm 4 bạn nữ chắc vẫn trôi,luat dam van phòng khả năng thêm 4 bạn nữ chắc vẫn trôi,Tích cực
 Nghiem Thi Quynh,Phương Thảo kìa kìa,phương thảo kìa kìa,Trung lập
 Sơn Vũ,Hung Le hỗ trợ đi azai,hung le hỗ trợ đi azai,Tích cực
@@ -1124,7 +1124,7 @@ Sơn,Phạm Cao Tưởng Lý Trọng Nhân Hoàng Thanh Nghĩa cho các bạn �
 Minh Huyền,Em trai nào chưa có phòng thì cứ qua trọ Phuong Linh nhé,em trai nào chưa có phòng thì cứ qua trọ phuong linh nhé,Tích cực
 Minh Hiếu,Sấp đôi có nệm 10m :))₫,sấp đôi có nệm 10m,Trung lập
 Dương Tuấn Huy,ở ghép nhà đc k thầy=))),ở ghép nhà được không thầy,Trung lập
-"Bắc Nguyễn,""Có bạn nam nào chăm chỉ, ngoan ngoãn, có sức khoẻ, hoàn cảnh khó khăn, chưa tìm được chỗ ở, muốn làm thêm thì qua Công Ty TNHH Công nghệ Chuyển Đổi Số BHT. Anh hỗ trợ dạy việc, làm được việc có lương và cho ở tại công ty. (Địa chỉ: cạnh sn 23, ngõ 106 Ngã 3 điểm hẹn)"",""có bạn nam nào chăm chỉ, ngoan ngoãn, có sức khoẻ, hoàn cảnh khó khăn, chưa tìm được chỗ ở, muốn làm thêm thì qua công ty tnhh công nghệ chuyển đổi số bht. anh hỗ trợ dạy việc, làm được việc có lương và cho ở tại công ty. địa chỉ cạnh sn 23, ngõ 106 ngã 3 điểm hẹn"",,,Tiêu cực"
+Bắc Nguyễn,"Có bạn nam nào chăm chỉ, ngoan ngoãn, có sức khoẻ, hoàn cảnh khó khăn, chưa tìm được chỗ ở, muốn làm thêm thì qua Công Ty TNHH Công nghệ Chuyển Đổi Số BHT. Anh hỗ trợ dạy việc, làm được việc có lương và cho ở tại công ty. (Địa chỉ: cạnh sn 23, ngõ 106 Ngã 3 điểm hẹn)","có bạn nam nào chăm chỉ, ngoan ngoãn, có sức khoẻ, hoàn cảnh khó khăn, chưa tìm được chỗ ở, muốn làm thêm thì qua công ty tnhh công nghệ chuyển đổi số bht. anh hỗ trợ dạy việc, làm được việc có lương và cho ở tại công ty. địa chỉ cạnh sn 23, ngõ 106 ngã 3 điểm hẹn",Tiêu cực
 Vũ Minh Hiệp,Hoàng Văn Quyến nhận 3 bạn nữ nhé,hoàng văn quyến nhận 3 bạn nữ nhé,Tích cực
 Nguyễn Bắc,Đỗ Chí Linh mình nhận 2 bạn nữ nhé,đỗ chí linh mình nhận 2 bạn nữ nhé,Tích cực
 Lục Thanh Trọng,Nam Lương nhận 3 bạn nữ nhé,nam lương nhận 3 bạn nữ nhé,Tích cực
@@ -1154,11 +1154,11 @@ Thạc Hiếu,Trường đại học ăn và chơi,trường đại học ăn v�
 Dương T. Lưu Ly,2 tháng nữa cơ ad đăng sớm vậy em nôn em không ngủ được,2 tháng nữa cơ admin đăng sớm vậy em nôn em không ngủ được,Tiêu cực
 Mai Quỳnhh,Trường lắm hđ v:),trường lắm hđ vậy,Tiêu cực
 Donna Hà Anhh,Hoài Linh năm nay cosplay quá oke,hoài linh năm nay cosplay quá oke,Tích cực
-"Trần Linh Trang,""tuy bác già rồi, nhưng bác vẫn muốn đi đu các cháu hồng hài nhi"",""tuy bác già rồi, nhưng bác vẫn muốn đi đu các cháu hồng hài nhi"",,,Tiêu cực"
+Trần Linh Trang,"tuy bác già rồi, nhưng bác vẫn muốn đi đu các cháu hồng hài nhi","tuy bác già rồi, nhưng bác vẫn muốn đi đu các cháu hồng hài nhi",Tiêu cực
 Ly Khanh,trường khác có đc vào kh ạ,trường khác có được vào không ạ,Trung lập
 HKan Yeager,Năm ngoái lớn nhất năm nay còn lớn hơn:))),năm ngoái lớn nhất năm nay còn lớn hơn,Tích cực
 Hoàng Thảo,Nhận make cos 25 nhé mn ơi,nhận make cos 25 nhé mọi người ơi,Tích cực
-"Tunaa Phan,""Đặng Huy Vũ đi săn thôi, cả một rừng mục tiêu"",""đặng huy vũ đi săn thôi, cả một rừng mục tiêu"",,,Tiêu cực"
+Tunaa Phan,"Đặng Huy Vũ đi săn thôi, cả một rừng mục tiêu","đặng huy vũ đi săn thôi, cả một rừng mục tiêu",Tiêu cực
 Hoàng Ánh,Đỗ Khánh Linhkhum biết anh Lee Ahn Tus có chào đón chị em mình khum nhể,đỗ khánh linhkhum biết anh lee ahn tus có chào đón chị em mình khum nhể,Trung lập
 Hà Thị Kim Dung,Thu Quỳnh năm nào cx vui c nhỉ về nhập học đi ko muốn đi làm nữa đâu,thu quỳnh năm nào cũng vui chị nhỉ về nhập học đi không muốn đi làm nữa đâu,Tích cực
 Mạhp Đức,Phùng Xuân Trường lm hướng dẫn viên dẫn t đi xem,phùng xuân trường lm hướng dẫn viên dẫn tôi đi xem,Trung lập
@@ -1257,7 +1257,7 @@ Hoàng Trọng Nhân,ICTU ĐG NÍU KÉO TÔI ĐÚNG KO,ictu đường níu kéo 
 Cẩm Ly,Thành Đinh lên đi quẩy đi anh,thành đinh lên đi quẩy đi anh,Tích cực
 Chen Yan,Hoangg Oanhh Dương Thu Hà đi k các cháu,hoangg oanhh dương thu hà đi không các cháu,Tích cực
 Nguyễn Khánh Mai,Vũ Thùy Trang nôn quá fen ơiii,vũ thùy trang nôn quá fen ơii,Tiêu cực
-"Trần Thành Văn,""Hoàng Thị Thu Hiền, Trần Linh  chuẩn ko các bro"",""hoàng thị thu hiền, trần linh chuẩn không các bro"",Tích cực"
+Trần Thành Văn,"Hoàng Thị Thu Hiền, Trần Linh  chuẩn ko các bro","hoàng thị thu hiền, trần linh chuẩn không các bro",Tích cực
 Khánh Huyền,Do Phuong Anh trường m mời jack k,do phuong anh trường mày mời jack không,Tiêu cực
 Triệu Thị Hảo,Truong Thi Lan đi tiếp,truong thi lan đi tiếp,Trung lập
 Khuc Anh Viet,Thân Thế Mạnh j đấy đưa a đi vs,thân thế mạnh gì đấy đưa anh đi với,Trung lập
@@ -1265,7 +1265,7 @@ Trang,Lưu HàLưu Hằng Đón bạn lên chơi nhanh,lưu hàlưu hằng đón
 Le Hong Minh,Tùng mấy con gà bên kte thì biết cgi :)),tùng mấy con gà bên kinh tế thì biết cgi,Tiêu cực
 Đan Lê,Tien Quang mạnh k,tien quang mạnh không,Trung lập
 Quân Trần,Thế nào lại chất,thế nào lại chất,Tích cực
-"Hoàng Lê Nhất Linh,""ngon, năm trc hụt =))"",""ngon, năm trước hụt"",Tích cực"
+Hoàng Lê Nhất Linh,"ngon, năm trc hụt =))","ngon, năm trước hụt",Tích cực
 Nguyen Duong Khang,Linh Nhật Vũ Đào Hoàng Lan 2 mẹ quét sạch bàn cờ này liền,linh nhật vũ đào hoàng lan 2 mẹ quét sạch bàn cờ này liền,Tích cực
 Thu Ha,The Hoang lúc đó m về m đi cho tao,the hoang lúc đó mày về mày đi cho tao,Tiêu cực
 Phạm Thị Dương,Nguyễn Quỳnh Trang đi thôi em Do dự ngkhac đi mất,nguyễn quỳnh trang đi thôi em do dự ngkhac đi mất,Tiêu cực
@@ -1342,7 +1342,7 @@ Nguyên Khánh,Hóng quá đi,hóng quá đi,Tích cực
 DHữu Thắng,Nguyễn Quang Hùng húp,nguyễn quang hùng húp,Tiêu cực
 Nguyễn Ngọc Diễm,Huyen Dieu đây he,huyen dieu đây he,Trung lập
 Hồ Thanhh Thủyy,Khánh Huyền thích nhé,khánh huyền thích nhé,Tích cực
-"Trần Hoàng Hà,""hóng jack 97 ạ , k thì sơn tùng em tê pê cũng dc ạ"",""hóng jack 97 ạ , không thì sơn tùng em tê pê cũng được ạ"",Tích cực"
+Trần Hoàng Hà,"hóng jack 97 ạ , k thì sơn tùng em tê pê cũng dc ạ","hóng jack 97 ạ , không thì sơn tùng em tê pê cũng được ạ",Tích cực
 Phương Linh,Ngọc Khánh kìa vợ,ngọc khánh kìa vợ,Tích cực
 Doan Ngoc Mai,Phạm Tuấn Khiêmđả ta,phạm tuấn khiêmđả ta,Tiêu cực
 Le Hong Thu,nhóm bổ sung cho các bạn tình nguyện viên hỗ trợ đón tiếp sinh viên K24 nhập học các bạn nhé https://zalo.me/g/vuzeyw769,nhóm bổ sung cho các bạn tình nguyện viên hỗ trợ đón tiếp sinh viên k24 nhập học các bạn nhé,Trung lập
@@ -1367,7 +1367,7 @@ Nguyễn Tuấn Hưng,Dương Văn Hoàng đi k e kiems điểm tí,dương văn
 Kaito Kazu,Zịt Zịt Nguyễn Thu Trang nè,zịt zịt nguyễn thu trang nè,Trung lập
 Phạm Chà,Có Phạm Quý không ?,có phạm quý không,Trung lập
 Nguyen Minh Son,Lưu Đức Luân đi làm tí điểm nhể,lưu đức luân đi làm tí điểm nhể,Trung lập
-"Thu Hoàn,""Thầy ơi nhóm max rồi, thầy tạo nhóm mới đi ạ"",""thầy ơi nhóm max rồi, thầy tạo nhóm mới đi ạ"",Tiêu cực"
+Thu Hoàn,"Thầy ơi nhóm max rồi, thầy tạo nhóm mới đi ạ","thầy ơi nhóm max rồi, thầy tạo nhóm mới đi ạ",Tiêu cực
 Nguyễn Quang Huy,Từ Duy đi vội nhé,từ duy đi vội nhé,Trung lập
 Nguyễn Thùy,Phương Thảo đi k,phương thảo đi không,Trung lập
 Nguyễn Phương Nam,Minh Nhat gét gô,minh nhat get go,Tiêu cực
